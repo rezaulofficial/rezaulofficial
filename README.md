@@ -23,3 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rezaulofficial&show_icons=true&locale=en" alt="rezaulofficial" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rezaulofficial&" alt="rezaulofficial" /></p>
+
+<img alt="programmerrafi Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rezaulofficial&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
